@@ -1,0 +1,38 @@
+body{
+    font-family: "Times New Roman", Georgia, serif;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px 5px #ddd;
+}
+
+#name{
+  color: gold;
+}
+
+.image{
+  padding-bottom: 1em;
+}
+
+.info{
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: justify;
+}
+
+.fact{
+  font-style: italic;
+}
+
+.list{
+  background-color: #ddd;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.label{
+  font-weight: bold;
+}
